@@ -58,7 +58,6 @@ module jk_ff (j, k, clk, rst, q);
       q <= ~q; // Toggle
   end
 ```
-![Screenshot 2024-12-23 084008](https://github.com/user-attachments/assets/57d90e9c-95a8-4afd-98d6-994a27ee6a89)
 
  
  Developed by: VISHAL V
@@ -68,12 +67,14 @@ module jk_ff (j, k, clk, rst, q);
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![Screenshot 2024-12-23 084117](https://github.com/user-attachments/assets/adeb37a9-263a-4826-8168-f03eeef316ab)
+![image](https://github.com/user-attachments/assets/eb959f8e-2532-43c8-b23a-22da77bccfc7)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-23 084126](https://github.com/user-attachments/assets/5aec504c-3cde-4a33-b691-3e4e81b96dad)
+![image](https://github.com/user-attachments/assets/c6dd5cbe-2504-4c5c-b864-632ae07b0ac6)
+
 
 
 **RESULTS**
